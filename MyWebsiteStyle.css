@@ -243,17 +243,17 @@ label{
 .sex{
     font-family: 'SFProText-Medium, Helvetica, Arial, sans-serif';
     display: inline;
-    padding: 0px 38px 5px 10px;
-    height: 60px;
-    width: 130px;
+    padding: 0px 5px 5px 10px;
+    
     border-radius: 3px;
     border: 1px solid #030630;
     font-size: 25px;
-    margin-right: 20px; 
+    margin-right: 5px; 
     
 }
-input#seX.gender{
-    margin-right: -10px
+input#seX.Gender{
+    margin-left:33px;
+    
 }
 label.date-of-birth{
     padding-bottom: 10px;
